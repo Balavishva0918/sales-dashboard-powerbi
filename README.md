@@ -35,18 +35,11 @@ The dataset includes:
 
 ## Dashboard Features
 
-* 📈 Sales Overview (KPIs: Total Sales, Profit, Margin)
-* 📅 Monthly Trends Analysis
-* 🧑‍🤝‍🧑 Top Customers & Products
-* 💰 Profit & Revenue Analysis
-* 🎛️ Dynamic Filters (Date, Region, Category)
-
----
-
-## Dashboard Preview
-
-*(Add your screenshot here)*
-![Dashboard](screenshots/dashboard.png)
+* Sales Overview (KPIs: Total Sales, Profit, Margin)
+* Monthly Trends Analysis
+* Top Customers & Products
+* Profit & Revenue Analysis
+* Dynamic Filters (Date, Region, Category)
 
 ---
 
@@ -67,7 +60,7 @@ The dataset includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 PowerBI-Sales-Dashboard/
 │
@@ -78,13 +71,13 @@ PowerBI-Sales-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Your Name
+Balavishva
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
-Give it a star on GitHub ⭐
+Give it a star on GitHub 
 
